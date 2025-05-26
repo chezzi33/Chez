@@ -1,3 +1,2 @@
-this only works for toonsquid,
+this only works for toonsquid ipad
 
-when you download this it will instantly import the brush into your toonsquid app so no worries
